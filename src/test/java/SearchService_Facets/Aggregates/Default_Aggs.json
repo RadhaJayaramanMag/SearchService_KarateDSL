@@ -1,0 +1,9 @@
+{
+	"userId": 99,
+	"langId": 10,
+	"pageNum": 0,
+	"pageSize": 0,
+	"aggs":{
+		"returnDefaultAggs": true
+	}
+}
